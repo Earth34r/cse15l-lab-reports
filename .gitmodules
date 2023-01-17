@@ -1,0 +1,3 @@
+[submodule "cse15l-week1-lab"]
+	path = cse15l-week1-lab
+	url = https://github.com/Earth34r/cse15l-week1-lab.git
